@@ -15,10 +15,6 @@
 
 </div>
 
-### Demo Screeshots
-
-![Responsive GYM Website Desktop Demo](./readme-images/Responsive-GYM-Website.png "Desktop Demo")
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
